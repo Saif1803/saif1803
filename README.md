@@ -12,7 +12,7 @@ Full-Stack Developer · Final-year EEE @ SASTRA Deemed University (Class of 2026
 
 ### Connect
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/saifcodes_exe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullaha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullah03/)
 
 ---
 
@@ -32,7 +32,3 @@ Full-Stack Developer · Final-year EEE @ SASTRA Deemed University (Class of 2026
 | **ORBIT** | Personal productivity OS with an AI planning layer — function-calling tools, streaming tool activity UI, mobile-first | Next.js, Supabase, n8n, DeepSeek |
 | **Football Atti** | Fan-run live audio commentary platform — "Twitter Spaces meets a broadcast desk" | Next.js, Convex, LiveKit (WebRTC), Convex Auth |
 | **Influpitch** | INR-priced link analytics and brand-pitch platform built for Indian creators | Next.js, TypeScript |
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=saif1803&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifcodes-exe&theme=tokyonight&hide_border=true" height="165"/>
