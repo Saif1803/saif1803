@@ -18,28 +18,9 @@ Full-Stack Developer · Final-year EEE @ SASTRA Deemed University (Class of 2026
 
 ### Stack
 
-**Core**
-<br/>
-<img height="40" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
-<img height="40" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"/>
-<img height="40" src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
-<img height="40" src="https://img.icons8.com/fluency/48/tailwindcss.png" alt="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,supabase,postgres,docker,jenkins,nginx,git,figma" alt="Tech stack: TypeScript, Next.js, React, Tailwind CSS, Supabase, PostgreSQL, Docker, Jenkins, Nginx, Git, Figma"/>
 
-**Backend & Data**
-<br/>
-<img height="40" src="https://img.icons8.com/color/48/supabase.png" alt="Supabase"/>
-<img height="40" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
-
-**DevOps**
-<br/>
-<img height="40" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-<img height="40" src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/>
-<img height="40" src="https://img.icons8.com/color/48/nginx.png" alt="Nginx"/>
-
-**Tools**
-<br/>
-<img height="40" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-<img height="40" src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
+*(Convex isn't on the icon set above but is part of the day-to-day stack too.)*
 
 ---
 
